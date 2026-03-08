@@ -1,0 +1,3 @@
+##Reflection 
+
+Practices such as documentation, version control, testing and peer reviews help development teams work more effectively together. Documentation makes it easier for others to understand how the code works and how different parts of the system interact. Version control systems like Git allow developers to track changes, collaborate and revert mistakes when needed. Automated testing helps ensure that code changes do not break existing functionality. Peer reviews allow team members to give feedback and improve code quality. Practices like pair programming also encourage knowledge sharing and help teams develop a shared understanding of the codebase, which supports shared ownership of the project.
